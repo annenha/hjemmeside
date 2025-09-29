@@ -7,7 +7,7 @@
 </head>
 <body>
   <header>
-    <h1>Hei, jeg heter [Ditt Navn]</h1>
+    <h1>Hei, jeg heter Anne Marit Hansen</h1>
     <nav>
       <a href="index.html">Hjem</a>
       <a href="projects.html">Prosjekter</a>
@@ -24,7 +24,7 @@
   </main>
 
   <footer>
-    <p>&copy; 2025 [Ditt Navn]</p>
+    <p>&copy; 2025 Anne Marit Hansen</p>
   </footer>
 </body>
 </html>
