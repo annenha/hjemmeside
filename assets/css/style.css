@@ -558,7 +558,7 @@ main {
 
 /**
  * #testimonials 
- */
+
 
 .testimonials { margin-bottom: 30px; }
 
@@ -610,7 +610,7 @@ main {
 
 /**
  * #testimonials-modal
- */
+
 
 .modal-container {
   position: fixed;
@@ -724,7 +724,7 @@ main {
 
 /**
  * #clients 
- */
+
 
 .clients { margin-bottom: 15px; }
 
@@ -757,7 +757,7 @@ main {
 .clients-item img:hover { filter: grayscale(0); }
 
 
-
+ */
 
 
 /*-----------------------------------*\
