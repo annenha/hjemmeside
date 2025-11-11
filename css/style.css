@@ -1,34 +1,48 @@
+
+div.ex2 {
+    max-width:900px;
+    margin: auto;
+    border: none;
+    font-family: Arial;
+    color: white;
+    
 }
+
 body {
-  font-family: Arial;
-  margin: 0;
-  padding: 0;
-    background: #f4f4f4;
-  color: #333;
+    background-color: black;
+  
 }
 
-header {
-  background: #333;
-  color: white;
-  padding: 1em;
+div.ex1{
+ 	font-family: Arial;
+    color: white;
+	margin-right: 600px;
+	float: right;
+    max-width:600px;
+    border: 1px solid red;
 }
 
-nav a {
-  color: white;
-  margin-right: 1em;
-  text-decoration: none;
+div.ex3{
+	max-width:300px;
+	margin-left: 400px;
+	margin-top: 25px;
+    border: 1px solid red;
+	color: white;
+
 }
 
-main {
-  padding: 2em;
+div.ex4{
+	border: 1px solid red;
+	margin-left: 800px;
+	max-width:300px;
 }
 
-footer {
-  background: #222;
-  color: white;
-  text-align: center;
-  padding: 1em;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
+div.ex5{
+	font-family: Arial;
+    color: white;
+	margin-right: 360px;
+	float: right;
+    max-width:600px;
+    border: 1px solid red;
+
 }
